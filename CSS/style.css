@@ -5,13 +5,13 @@ html {
 }
 
 body {
-    background-color: rgb(30, 31, 31);
+    background-color:rgb(167 190 197);
     margin: 0;
 
 }
 
 .contenido {
-    background-color: #ffffff;
+    background-color: rgb(52, 68, 88);
     width: 285px;
     height: 1550px;
     float: left;
@@ -19,7 +19,7 @@ body {
 }
 
 .contenido1 {
-    background-color: #e2e2e2;
+    background-color: #ffffff;
     width: 515px;
     height: 1550px;
     float: right;
@@ -48,7 +48,7 @@ h2 {
     font-size: 17px;
     margin-left: 2%;
     font-family: Helvetica;
-    color: rgb(74, 79, 85);
+    color: rgb(255, 255, 255);
     font-style: normal;
     margin-top: 55px;
     margin-left: 20px;
@@ -58,7 +58,7 @@ h2 {
     font-size: 16px;
     margin-left: 2%;
     font-family: Helvetica;
-    color: rgb(74, 79, 85);
+    color: rgb(255, 255, 255);
     font-style: normal;
     margin-top: 20px;
     margin-left: 20px;
@@ -68,30 +68,26 @@ h2 {
     font-size: 18px;
     margin-left: 2%;
     font-family: Helvetica;
-    color: rgb(74, 79, 85);
+    color: rgb(36, 38, 41);
     font-style: normal;
     margin-top: 55px;
     margin-left: 20px;
 }
 
 .Line {
-    background-color: #c7360a;
+    background-color: #1b1b1b;
     width: 507px;
     height: 2px;
     padding: 4px;
-    
-   
-
 }
 
 h3 {
     font-size: 14px;
     margin-left: 10%;
     font-family: Helvetica;
-    color: rgb(49, 52, 56);
+    color: rgb(255, 255, 255);
     font-style: normal;
     margin-top: 11%;
-
 }
 
 .N_propio {
